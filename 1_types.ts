@@ -1,3 +1,4 @@
+//typescriptlang.org/docs/home.html
 const str: string = 'Hello'
 //console.log(str)    
 const isFetching: boolean = true
